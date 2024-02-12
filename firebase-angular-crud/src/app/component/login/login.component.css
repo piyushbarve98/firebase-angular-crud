@@ -1,0 +1,6 @@
+.vertical-center {
+    min-height: 100vh; /* Set minimum height to the full viewport height */
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+  }
